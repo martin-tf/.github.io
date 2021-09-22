@@ -10,9 +10,9 @@ h1 {
 img {
     border-style: solid;
     float: left;
+    margin-right: 50px;
 }
 p {
-    width: 1600px;
     font-size: 10pt;
     font-family: Helvetica, Arial, sans-serif;
 }
