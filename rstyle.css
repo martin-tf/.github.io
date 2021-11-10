@@ -1,0 +1,12 @@
+ul {
+  list-style-type: none;
+}
+
+li {
+  margin: 10px;
+}
+
+body {
+  background: linear-gradient(to right, #005c97, #363795);
+  color: white;
+}
